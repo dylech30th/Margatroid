@@ -1,0 +1,2 @@
+# Margatroid
+My utility library
